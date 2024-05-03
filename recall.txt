@@ -1,1 +1,1 @@
-create text recall.txt
+pull function
